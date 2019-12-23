@@ -105,3 +105,24 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+/* svg loader testing css  */
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 40vh;
+    left: 30vw;
+}
+#loader{
+    animation: loading 5s ease-out 400ms infinite;
+}
+
+
+@keyframes loading{
+    100%{
+        transform: rotate(3turn);
+    }
+}

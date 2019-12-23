@@ -1,0 +1,18 @@
+/* svg loader testing css  */
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px;
+}
+#loader{
+    animation: loading 5s ease-out 400ms infinite;
+}
+
+
+@keyframes loading{
+    100%{
+        transform: rotate(3turn);
+    }
+}
