@@ -6,7 +6,12 @@ Testing the Cordova Plugin Camera for learning purposes.
 
 ## To Do:
 - [x] edit config.xml
-- [ ] use colormind.io to find a color pallete for this app design
+- [x] use colormind.io to find a color pallete for this app design
+> FAF9FA - Light Shade 
+> C3CAE3 - Light Accent
+> 708DCA - Brand Color
+> 89ABE8 - Dark Accent 
+> 213482 -= Dark Shade
 - [ ] create icon for app
 - [ ] create splashscreen for differnet densities for android
 - [ ] create svg loader for app to use when fetching data or editing camera output
